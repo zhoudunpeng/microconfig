@@ -22,5 +22,5 @@ server:
 spring:
   profiles: beta
   application:
-      name: microconfig-test-client-6666
+      name: microconfig-test-client-7777
 
